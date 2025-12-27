@@ -1,0 +1,23 @@
+{
+  "name": "seo-utube-node",
+  "version": "1.0.0",
+  "description": "Back end server for seo tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrasanthPamula97/SEO-UTUBE-NODE.git"
+  },
+  "author": "pamula prasanth kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrasanthPamula97/SEO-UTUBE-NODE/issues"
+  },
+  "homepage": "https://github.com/PrasanthPamula97/SEO-UTUBE-NODE#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
